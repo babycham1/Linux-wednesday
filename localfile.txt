@@ -1,0 +1,4 @@
+i love linux wed again > localfile.txt
+ls -l
+ls -al
+echo i love linux wed again
