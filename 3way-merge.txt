@@ -1,0 +1,3 @@
+3waymerge-backend > 3way-merge.txt
+
+echo 3waymerge-backend
